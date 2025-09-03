@@ -1,5 +1,5 @@
 # SCT_DS_3
-README for Internship Task 2
+
 Project Title
 
 Exploratory Data Analysis and Preprocessing on Bank Marketing Dataset
